@@ -1,0 +1,56 @@
+# Blender MTL File: 'BossRoom.blend'
+# Material Count: 6
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd D:\OoT_Modding\Textures\OoT_Rip\Fishing Pond\0000E4E0_32x32_rgba16.png
+
+newmtl None_IC-0x10EC0_32x32_RGBA16.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd D:\OoT_Modding\Textures\OoT_Rip\Dungeons\Ice Cavern\IC-0x10EC0_32x32_RGBA16.png
+
+newmtl None_IC-0x1F650_32x64_RGBA16.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd D:\OoT_Modding\Textures\OoT_Rip\Dungeons\Ice Cavern\IC-0x1F650_32x64_RGBA16.png
+
+newmtl None_IC-0x5EC78_32x32_RGBA16.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd D:\OoT_Modding\Textures\OoT_Rip\Dungeons\Ice Cavern\IC-0x5EC78_32x32_RGBA16.png
+
+newmtl None_IC-0x60398_64x64_I8.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd D:\OoT_Modding\Textures\OoT_Rip\Dungeons\Ice Cavern\IC-0x60398_64x64_I8.png
+
+newmtl None_WT-0xBF3A0_32x16_RGBA16.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd D:\OoT_Modding\Textures\OoT_Rip\Dungeons\Water Temple\WT-0xBF3A0_32x16_RGBA16.png
